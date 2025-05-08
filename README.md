@@ -2,6 +2,11 @@
 ## COSC572 Management Information Systems - Assignment 3B
 ### By Kevin Teong
 
+## Assigment criteria
+Using Sample Data from Tableau's Resources page - or your own data if preferred - create a data visualisation that communicates an insight from the data
+
+Explain Your Application of Unit Theory in Your Data Visualisation. Briefly describe how you used unit theory from Topic 7, Topic 8 or Topic 9 to communicate your insight from your data to your audience.
+
 ## My 2024 Running Data
 https://public.tableau.com/app/profile/kevin.teong/viz/BoomyRun/2024Running
 
@@ -43,3 +48,7 @@ This project followed a classic knowledge management cycle: data collection (sma
 8. Koral, J., Oranchuk, D. J., Herrera, R., & Millet, G. Y. (2018). Six sessions of sprint interval training improves running performance in trained athletes. Journal of Strength and Conditioning Research, 32(3), 617-623. https://doi.org/10.1519/JSC.0000000000002286
 9. Skovgaard, C., Christiansen, D., Martínez‐Rodríguez, A., & Bangsbo, J. (2023). Similar improvements in 5-km performance and maximal oxygen uptake with submaximal and maximal 10-20-30 training in runners, but increase in muscle oxidative phosphorylation occur only with maximal effort training. Scandinavian Journal of Medicine & Science in Sports, https://doi.org/10.1111/sms.14493.
 10. Weissgerber, T. L., Winham, S. J., Heinzen, E. P., Milin-Lazovic, J. S., Garcia-Valencia, O., Bukumiric, Z., Savic, M. D., Garovic, V. D., & Milic, N. M. (2019). Reveal, don't conceal: Transforming data visualization to improve transparency. Circulation, 140(18), 1506–1518. https://doi.org/10.1161/CIRCULATIONAHA.118.037777
+
+## Post-assignment feedback
+25/25 (Full marks)
+The marker liked that I used my own data set (instead of a public one) and that I highlighted many important points about data driven insights.
